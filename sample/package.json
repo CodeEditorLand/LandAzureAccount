@@ -43,8 +43,8 @@
     "ms-vscode.azure-account"
   ],
   "devDependencies": {
-    "@microsoft/vscode-azext-utils": "^3.1.1",
-    "@types/node": "^22.15.30",
+    "@microsoft/vscode-azext-utils": "^3.1.4",
+    "@types/node": "^24.0.0",
     "@types/vscode": "1.100.0",
     "typescript": "^5.8.3"
   },
